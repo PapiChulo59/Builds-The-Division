@@ -28,14 +28,14 @@
 
 
 # Stats
-## Armes à feu
-- Maximum 7k
+- Armes à feu
+    - Maximum 7k
 
-## Endurance
-- Environs 6k
+- Endurance
+    - Environs 6k
 
-## Composants électroniques
-- Maximum 2960
+- Composants électroniques
+    - Maximum 2960
 
 
 # Piéces d'armure
@@ -58,50 +58,51 @@
 - Attributs mineurs:
     - Dégâts sur les Elites
 
-    - Mods:
-        - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
-            - ou +1 Probabilité de tir critique)*
+- Mods:
+    - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
+    - ou +1 Probabilité de tir critique)*
 
-- Genouilléres
-    - Attributs principaux:
-        - Dégâts d'armure ennemie
+## Genouilléres
+- Attributs principaux:
+    - Dégâts d'armure ennemie
 
-    - Attributs mineurs:
-        - Dégâts sur les Elites
-        - Résistance aux brûlures
-        - Au choix pour celui restant
+- Attributs mineurs:
+    - Dégâts sur les Elites
+    - Résistance aux brûlures
+    - Au choix pour celui restant
 
-    - Mods:
-        - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
-            - ou +1 Probabilité de tir critique)*
-        - x1 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien 
-            - ou +6% Auto guérison par premier soins)*
+## Mods:
+    - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
+        - ou +1 Probabilité de tir critique)*
+    - x1 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien 
+        - ou +6% Auto guérison par premier soins)*
 
-- Sac à dos
-    - Attributs principaux:
-        - Dégats tir critique
+## Sac à dos
+- Attributs principaux:
+    - Dégats tir critique
 
-    - Attributs mineurs:
-        - Capacité Munitions
+- Attributs mineurs:
+    - Capacité Munitions
 
-    - Mods:
-        - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
-            - ou +1 Probabilité de tir critique)*
-        - x2 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien 
-            - ou +6% Auto guérison par premier soins)*
+- Mods:
+    - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
+        - ou +1 Probabilité de tir critique)*
+    - x2 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien 
+        - ou +6% Auto guérison par premier soins)*
 
-- Gants
-    - Attributs principaux:
-        - Dégâts fusil d'assaut
-        - Santé sur élimination
-        - Dégâts d'armure ennemie
+## Gants
+- Attributs principaux:
+    - Dégâts fusil d'assaut
+    - Santé sur élimination
+    - Dégâts d'armure ennemie
 
-- Holster
-     - Attributs principaux:
-        - Probabilité de tir critique
-    - Mods:
-        - x1 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien 
-            - ou +6% Auto guérison par premier soins)*
+## Holster
+- Attributs principaux:
+    - Probabilité de tir critique
+
+- Mods:
+    - x1 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien 
+        - ou +6% Auto guérison par premier soins)*
 
 
 # Compétences
