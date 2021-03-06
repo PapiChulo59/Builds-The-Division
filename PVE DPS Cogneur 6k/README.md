@@ -29,10 +29,10 @@
 
 # Stats
 - Armes à feu
-    - Maximum 7k
+    - 7k
 
 - Endurance
-    - Environs 6k
+    - Obligatoire d'avoir 6k
 
 - Composants électroniques
     - Maximum 2960
