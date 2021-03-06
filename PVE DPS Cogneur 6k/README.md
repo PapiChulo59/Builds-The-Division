@@ -16,12 +16,12 @@
             ou - Petite poignée rouge? *(+18 Dégâts tir critique | 5% Temps de rechargement | +5 Portée)*
 
 - Seconde M4 
-    ou Virtuose *(fusil à pompe AA-12 exotique-orange)*
-        Talents:
+    - ou Virtuose *(fusil à pompe AA-12 exotique-orange)*
+        - Talents:
             - Reactif
             - Destructeur
-    ou Grenouille-taureau *(famas exotique-orange)*
-        Talents:
+    - ou Grenouille-taureau *(famas exotique-orange)*
+        - Talents:
             - Reactif
             - Destructeur
 
