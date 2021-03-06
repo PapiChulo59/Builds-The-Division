@@ -15,47 +15,48 @@
     - Protége-rail - Vert feuille *(+30% Temps de rechargement | +4% Dégâts tir critique | +2% Précision)*
         - ou - Petite poignée rouge? *(+18 Dégâts tir critique | 5% Temps de rechargement | +5 Portée)*
 
-- Seconde M4 
-    - ou Virtuose *(fusil à pompe AA-12 exotique-orange)*
-        - Talents:
-            - Reactif
-            - Destructeur
-    - ou Grenouille-taureau *(famas exotique-orange)*
-        - Talents:
-            - Reactif
-            - Destructeur
+## Seconde M4 
+- ou Virtuose *(fusil à pompe AA-12 exotique-orange)*
+    - Talents:
+    - Reactif
+    - Destructeur
+
+- ou Grenouille-taureau *(famas exotique-orange)*
+    - Talents:
+    - Reactif
+    - Destructeur
 
 
 # Stats
-- Armes à feu
-    - Maximum 7k
+## Armes à feu
+- Maximum 7k
 
-- Endurance
-    - Environs 6k
+## Endurance
+- Environs 6k
 
-- Composants électroniques
-    - Maximum 2960
+## Composants électroniques
+- Maximum 2960
 
 
 # Piéces d'armure
-- Torse
-    - Attributs principaux:
-        - Dégâts d'armure ennemie
-        - Santé sur élimination
+## Torse
+- Attributs principaux:
+    - Dégâts d'armure ennemie
+    - Santé sur élimination
     
-    - Attributs mineurs:
-        - Capacité Munitions
+- Attributs mineurs:
+    - Capacité Munitions
 
-    - Mods:
-        - x2 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
-            - ou +1 Probabilité de tir critique)*
+- Mods:
+    - x2 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
+        - ou +1 Probabilité de tir critique)*
 
-- Masque
-    - Attributs principaux:
-        - Dégâts d'armure ennemie
+## Masque
+- Attributs principaux:
+    - Dégâts d'armure ennemie
         
-    - Attributs mineurs:
-        - Dégâts sur les Elites
+- Attributs mineurs:
+    - Dégâts sur les Elites
 
     - Mods:
         - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
