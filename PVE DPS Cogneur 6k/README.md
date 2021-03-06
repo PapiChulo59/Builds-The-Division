@@ -71,7 +71,7 @@
     - Résistance aux brûlures
     - Au choix pour celui restant
 
-## Mods:
+- Mods:
     - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
         - ou +1 Probabilité de tir critique)*
     - x1 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien 
