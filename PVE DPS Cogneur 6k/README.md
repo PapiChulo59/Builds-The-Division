@@ -10,10 +10,10 @@
     - Accessoires:
         - Grand chargeur *(+120% Taille du chargeur | +4% Dégâts tir critique | +3% Probabilité de tir critique)*
         - Lunette C79 *(+18% Dégâts tir critique | +5% Portée | 3% Probabilité de tir critique)*
-            ou - Viseur réflexe *(+7.50% Probabilité de tir critique | +3 Stabilité | +4 Dégâts tir critique)*
+            - ou - Viseur réflexe *(+7.50% Probabilité de tir critique | +3 Stabilité | +4 Dégâts tir critique)*
         - Silencieux pour fusil Omega *(+18.50 Dégâts headshots | +4 Dégâts tir critique | +3% Probabilité de tir critique | +50 Menace réduite*)*
         - Protége-rail - Vert feuille *(+30% Temps de rechargement | +4% Dégâts tir critique | +2% Précision)*
-            ou - Petite poignée rouge? *(+18 Dégâts tir critique | 5% Temps de rechargement | +5 Portée)*
+            - ou - Petite poignée rouge? *(+18 Dégâts tir critique | 5% Temps de rechargement | +5 Portée)*
 
 - Seconde M4 
     - ou Virtuose *(fusil à pompe AA-12 exotique-orange)*
