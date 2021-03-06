@@ -1,6 +1,6 @@
 ## Build DPS PVE (Cogneur 6k)
 
-### Armes
+# Armes
 - M4 allegé
     - Talents:
         - Soutenu
@@ -26,7 +26,7 @@
             - Destructeur
 
 
-### Stats
+# Stats
 - Armes à feu
     - Maximum 7k
 
@@ -37,7 +37,7 @@
     - Maximum 2960
 
 
-### Piéces d'armure
+# Piéces d'armure
 - Torse
     - Attributs principaux:
         - Dégâts d'armure ennemie
@@ -47,7 +47,8 @@
         - Capacité Munitions
 
     - Mods:
-        - x2 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites ou +1 Probabilité de tir critique)*
+        - x2 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
+            - ou +1 Probabilité de tir critique)*
 
 - Masque
     - Attributs principaux:
@@ -57,7 +58,8 @@
         - Dégâts sur les Elites
 
     - Mods:
-        - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites ou +1 Probabilité de tir critique)*
+        - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
+            - ou +1 Probabilité de tir critique)*
 
 - Genouilléres
     - Attributs principaux:
@@ -69,8 +71,10 @@
         - Au choix pour celui restant
 
     - Mods:
-        - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites ou +1 Probabilité de tir critique)*
-        - x1 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien ou +6% Auto guérison par premier soins0)*
+        - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
+            - ou +1 Probabilité de tir critique)*
+        - x1 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien 
+            - ou +6% Auto guérison par premier soins)*
 
 - Sac à dos
     - Attributs principaux:
@@ -80,8 +84,10 @@
         - Capacité Munitions
 
     - Mods:
-        - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites ou +1 Probabilité de tir critique)*
-        - x2 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien ou +6% Auto guérison par premier soins0)*
+        - x1 Mod prototype d'endurance ou armes à feu *(+4 Dégâts sur les Elites 
+            - ou +1 Probabilité de tir critique)*
+        - x2 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien 
+            - ou +6% Auto guérison par premier soins)*
 
 - Gants
     - Attributs principaux:
@@ -93,16 +99,17 @@
      - Attributs principaux:
         - Probabilité de tir critique
     - Mods:
-        - x1 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien ou +6% Auto guérison par premier soins0)*
+        - x1 Mod prototype de performance *(+5% Vitesse de guérison du poste de soutien 
+            - ou +6% Auto guérison par premier soins)*
 
 
-### Compétences
+# Compétences
 - Bombe collante flashbang *(ou tourelle de feu ou réanimateur, varie selon les situations)*
 - Poste de soutien *(Variante: Sauveteur)*
 - Ulti: Varie selon les situations mais prendre par défaut le "Lien de récupération"
 
 
-### Talents
+# Talents
 - Médical:
     - Sauvetage critique
     - Médecin de combat (si en groupe)
