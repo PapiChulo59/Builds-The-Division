@@ -8,8 +8,8 @@
         - Féroce (en talent gratuit obligatoire*)
     
     - Accessoires:
-        - Grand chargeur (+120% Taille du chargeur | +4% Dégâts tir critique | +3% Probabilité de tir critique)
-        - Lunette C79 (+18% Dégâts tir critique | +5% Portée | 3% Probabilité de tir critique)
+        - Grand chargeur *(+120% Taille du chargeur | +4% Dégâts tir critique | +3% Probabilité de tir critique)*
+        - Lunette C79 *(+18% Dégâts tir critique | +5% Portée | 3% Probabilité de tir critique)*
             ou - Viseur réflexe (+7.50% Probabilité de tir critique | +3 Stabilité | +4 Dégâts tir critique)
         - Silencieux pour fusil Omega (+18.50 Dégâts headshots | +4 Dégâts tir critique | +3% Probabilité de tir critique | +50 Menace réduite*)
         - Protége-rail - Vert feuille (+30% Temps de rechargement | +4% Dégâts tir critique | +2% Précision)
@@ -97,16 +97,16 @@
 
 
 ### Compétences
-    - Bombe collante flashbang (ou tourelle de feu ou réanimateur, varie selon les situations)
-    - Poste de soutien (Variante: Sauveteur)
-    - Ulti: Varie selon les situations mais prendre par défaut le "Lien de récupération"
+- Bombe collante flashbang (ou tourelle de feu ou réanimateur, varie selon les situations)
+- Poste de soutien (Variante: Sauveteur)
+- Ulti: Varie selon les situations mais prendre par défaut le "Lien de récupération"
 
 
 ### Talents
-    - Médical:
-        - Sauvetage critique
-        - Médecin de combat (si en groupe)
-        - Contre-attaquer
+- Médical:
+    - Sauvetage critique
+    - Médecin de combat (si en groupe)
+    - Contre-attaquer
 
-    - Sécutité
-        - En déplacement
+- Sécutité
+    - En déplacement
